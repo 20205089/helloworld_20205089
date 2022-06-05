@@ -21,6 +21,11 @@
  1. ps는 ps한 시점에 proc에서 검색한 cpu 사용량
  2. top은 proc에서 일정 주기로 합산해 cpu 사용율 출력
 - top –b –n 1
+<img src="[vim top](https://user-images.githubusercontent.com/106909588/172050384-0671711e-4662-4546-96a9-a26ea621f023.png)" width="640" height="480">
+
+
+
+
 ### 2. ps 명령어
 
 ### 3. jobs 명령어
